@@ -1,0 +1,14 @@
+秩序的翻译 · 动态展示版
+========================
+
+1. 双击打开 index.html（建议用 Chrome 或 Edge）
+2. 移动鼠标：视差效果
+3. 点击画面：背景与金河会出现涟漪
+
+请勿只复制 index.html，必须保留整个文件夹结构。
+
+文件夹需包含：
+  index.html
+  poster.png
+  layers/sam/（全部 png + manifest.js）
+  layers/home/ubuntu/layers/river_gold.png
